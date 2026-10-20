@@ -1,0 +1,13 @@
+# Formato: id,nombre,categoria,descripcion
+1,Rectorado UNSA,Administrativo,Sede administrativa y despacho de las autoridades universitarias
+2,Biblioteca Central UNSA,Biblioteca,Préstamo de libros y salas de estudio para estudiantes
+3,Aula Magna UNSA,Eventos,Conferencias y ceremonias académicas de la universidad
+4,Facultad de Ingeniería de Sistemas,Académico,Aulas y laboratorios de computación e informática
+5,Facultad de Ingeniería de Producción y Servicios,Académico,Aulas y laboratorios de ingeniería
+6,Facultad de Medicina UNSA,Académico,Aulas y laboratorios de ciencias de la salud
+7,Facultad de Ciencias Económicas,Académico,Aulas y oficinas de las escuelas de economía
+8,Comedor Universitario UNSA,Servicios,Alimentación para estudiantes y personal universitario
+9,Coliseo Universitario UNSA,Deportes,Actividades deportivas y eventos masivos
+10,Complejo Deportivo UNSA,Deportes,Canchas y espacios para la práctica del deporte
+11,Centro de Cómputo UNSA,Tecnología,Salas de cómputo y soporte informático
+12,Facultad de Arquitectura y Urbanismo,Académico,Talleres de diseño y aulas de arquitectura
