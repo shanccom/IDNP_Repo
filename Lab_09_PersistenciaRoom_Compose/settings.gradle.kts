@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lab_08_PersistenciaRoom_Compose"
+rootProject.name = "Lab_09_PersistenciaRoom_Compose"
 include(":app")
  
